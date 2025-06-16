@@ -1502,7 +1502,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-extra-keybinds-fabric.pw.toml"
-hash = "e65963729f01e0989b7a57ef340411fd0de3bc97c268e230e832dc69d2a07d64"
+hash = "91d4a91c59e88b2f490e18bede778b702174fecd2c8dc9812fab5e86a1be01c3"
 metafile = true
 
 [[files]]

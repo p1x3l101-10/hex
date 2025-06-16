@@ -1,6 +1,6 @@
 name = "Wild Freaky Blocks"
 filename = "WFB+fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5YK1I5kS/versions/t9Aqqb0c/WFB%2Bfabric.jar"

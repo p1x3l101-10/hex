@@ -676,6 +676,11 @@ hash = "48f87db61013fa469b42310df4ac756a2fdc78028db96ae7e3962f119abcc5f6"
 metafile = true
 
 [[files]]
+file = "mods/origins-kitsune.pw.toml"
+hash = "84f43c2b60040abd1344329e23daa8e787a26b48e84cd98fade767e807aa45d6"
+metafile = true
+
+[[files]]
 file = "mods/origins-player-scale.pw.toml"
 hash = "9f0e618cb062650c60cc7b80ab58f7d3e84b3fc70602215995b669d44b64b0bd"
 metafile = true

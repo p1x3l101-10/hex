@@ -658,7 +658,7 @@ hash = "7b36010dfb0bd67251eacf8f0a6ebaa3b0d5c3dfcc574f4ddbe6b6b4809337de"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "981965acfaecdae132ab2e45c37a9bcbec26ff516debf14fc2360de8bcfd1900"
+hash = "e3b34611561cb7b1f1dc0c4aaaa2fdff7d70d257928b9ab63a706fa9a657b80d"
 
 [[files]]
 file = "config/tectonic.json"

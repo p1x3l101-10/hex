@@ -1,0 +1,13 @@
+name = "Eccentric Tome (Fabric)"
+filename = "eccentrictome-1.10.2+1.0.2+1.19.2+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MT9K1XQ0/versions/T9gOH0qO/eccentrictome-1.10.2%2B1.0.2%2B1.19.2%2Bfabric.jar"
+hash-format = "sha512"
+hash = "516a234550ea5875d77a264a503cf89bdc431de3bbba1582c36194904b3ff8954b513e9c55a668757752b88f86d406a7c71ab84f18892ec8cf272dd45ab2e89c"
+
+[update]
+[update.modrinth]
+mod-id = "MT9K1XQ0"
+version = "T9gOH0qO"

@@ -976,6 +976,11 @@ hash = "1bb781d5b2677e730285027f335b115fbdc4fce48a1a183606b2446b9b03e28b"
 metafile = true
 
 [[files]]
+file = "mods/eccentric-tome-fabric.pw.toml"
+hash = "43c7eee5e29daf39f5d01269b12dd90f4f068fcf0603b936a2c043a45524739a"
+metafile = true
+
+[[files]]
 file = "mods/effective-regalia.pw.toml"
 hash = "58385ce55fce6ca069d4450d7b7dba959fb380a420875cc924ce7e54a0e995fe"
 metafile = true

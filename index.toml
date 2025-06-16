@@ -506,7 +506,7 @@ hash = "f8aaf95a6277fbc394e12162810914b579a1e7b14600fd085fbf43181fc5fd75"
 
 [[files]]
 file = "config/modern_industrialization.toml"
-hash = "aac11cff08c0f151b974a5a4427d2ea4bcd81011bbef872489a0cb6bd1163336"
+hash = "d36f14dcfa96b1efc2e86de657651da6e99de700bbf48edb1ff2e073e67f1a1d"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -722,7 +722,7 @@ hash = "260541561346afbc5d09bf5b1e2a92994fa143475b6d2435134d92e8bc6facc5"
 
 [[files]]
 file = "config/zenith/zenith.cfg"
-hash = "912830746235691255fb9bdf18558826c794df1c261f78bea1585d7c32b169fa"
+hash = "560c95738d982ea346f9568349cfe177428d692c697758f387ce250f1f50dc71"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

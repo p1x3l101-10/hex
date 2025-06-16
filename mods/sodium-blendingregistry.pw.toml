@@ -1,0 +1,13 @@
+name = "Sodium Blending Registry"
+filename = "sodium-blendingregistry-0.4.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iq71kojm/versions/STABv846/sodium-blendingregistry-0.4.4.1.jar"
+hash-format = "sha512"
+hash = "458ad94a9fb7ac0330a546f530af9596b7aacfd4082c8e726a853bfc2ef384c2748a23db6d147de2af49abc9b538b5ee01efbe5eccc7ada165fe0659f7bcacd1"
+
+[update]
+[update.modrinth]
+mod-id = "iq71kojm"
+version = "STABv846"

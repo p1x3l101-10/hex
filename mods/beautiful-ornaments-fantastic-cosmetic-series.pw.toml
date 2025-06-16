@@ -1,0 +1,13 @@
+name = "Beautiful Ornaments [Fantastic Cosmetic Series]"
+filename = "beautiful_ornaments-2.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gkrh9jWy/versions/vsMhbshd/beautiful_ornaments-2.0.0-1.19.2.jar"
+hash-format = "sha512"
+hash = "ab3f77d55b3b8be508ce439dd6bc28e42abaccc5e829e60d33bee5b45cf3d493e259b6af5e1efb02d2024e18e769e1386c03af66643554519782711cf4c3e4d7"
+
+[update]
+[update.modrinth]
+mod-id = "Gkrh9jWy"
+version = "vsMhbshd"

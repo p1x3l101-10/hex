@@ -1,0 +1,13 @@
+name = "Just Beers [Just Additions Series]"
+filename = "justbeersmod-0.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KtL7A7yK/versions/8wCcuSG7/justbeersmod-0.0.1-1.19.2.jar"
+hash-format = "sha512"
+hash = "e2dbf65bcd8404a18a6f614c03d1013769256997413801dc819eb689b5ca859791beaa63757e57014329a29e488bdd371e9b35d275af14fe72ebaf10db0eb12c"
+
+[update]
+[update.modrinth]
+mod-id = "KtL7A7yK"
+version = "8wCcuSG7"

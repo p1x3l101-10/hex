@@ -1,0 +1,13 @@
+name = "Improved Trident"
+filename = "improvedtrident-fabric-1.20.[0-4]-v2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rJA65pFi/versions/piYZV3Gf/improvedtrident-fabric-1.20.%5B0-4%5D-v2.1.jar"
+hash-format = "sha512"
+hash = "9884b8bbf3ab33ed9476629c13a3391757c9d5795b5bb2368c3cbed50a3efef91b8acfdc9225dca0faec5014d2f82e9cd3e814596fc80b4230fb97b9c89edf3a"
+
+[update]
+[update.modrinth]
+mod-id = "rJA65pFi"
+version = "piYZV3Gf"

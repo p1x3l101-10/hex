@@ -1,0 +1,13 @@
+name = "Hex Conjuring"
+filename = "hexconjuring-fabric-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RWZR0OYJ/versions/w2Zfp10H/hexconjuring-fabric-1.19.2-1.0.1.jar"
+hash-format = "sha512"
+hash = "40c4107f1e18a59b2d03eb9a8eb01b491a51986b3f6ee1ca63f137a26626b1b7e5264888e1ceae7bd1e52f2ba05e2688c346d43faff72f3433802020b2e6cbcb"
+
+[update]
+[update.modrinth]
+mod-id = "RWZR0OYJ"
+version = "w2Zfp10H"

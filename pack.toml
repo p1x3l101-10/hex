@@ -1,0 +1,15 @@
+name = "Hex"
+author = "P1x3l101"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "54dcf270109f1996e246356ef12cd95a5e05e9ec2ae83a51be3a137889e3d5d0"
+
+[versions]
+fabric = "0.16.14"
+lwjgl3 = "3.3.1"
+minecraft = "1.19.2"
+unsup = "1.1.3"

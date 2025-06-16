@@ -1,0 +1,13 @@
+name = "HexShield"
+filename = "hexshield-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhk41bwN/versions/KzD8NKLx/hexshield-1.0.9.jar"
+hash-format = "sha512"
+hash = "4a600e0f77905ed2bb27234e9b5698fd901c472bd30fc1cedcee68e76cd75069355fdfdb6b2d586e5a48ef08c524a0a213b24dcc134a19cde56da0b8caba6885"
+
+[update]
+[update.modrinth]
+mod-id = "lhk41bwN"
+version = "KzD8NKLx"

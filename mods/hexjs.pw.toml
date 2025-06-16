@@ -1,0 +1,13 @@
+name = "HexJS"
+filename = "HexJS 1.1.1 [FABRIC].jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IEhCorNX/versions/T2ShXQhU/HexJS%201.1.1%20%5BFABRIC%5D.jar"
+hash-format = "sha512"
+hash = "3a9ba3684bd1504fcfa7da9018ddf20b335931cdaa650d569c19e8867ed45f6f101ce8201b48a06e204e4a5e79785d1bd2da7df128ffee309355cb1e67530cf2"
+
+[update]
+[update.modrinth]
+mod-id = "IEhCorNX"
+version = "T2ShXQhU"

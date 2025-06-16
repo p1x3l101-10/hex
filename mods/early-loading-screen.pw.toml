@@ -1,0 +1,13 @@
+name = "Early Loading Screen"
+filename = "earlyloadingscreen-mc1.19.2-0.1.5-all.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JVIyMkGt/versions/gukdLhU7/earlyloadingscreen-mc1.19.2-0.1.5-all.jar"
+hash-format = "sha512"
+hash = "bfb2a42d276b9b72166a053505941241f2738946df3703378f6e605f94595b03690d98fdb770acca6c1396ab35132cadcb54953af729cfc44c427d756ec75824"
+
+[update]
+[update.modrinth]
+mod-id = "JVIyMkGt"
+version = "gukdLhU7"

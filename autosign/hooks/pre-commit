@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+
+# Run refresh regardless of what changed
+packwiz refresh
+git add pack.toml index.toml
+
+# Files to monitor and sign
+KEY="autosign/signingkey.sec"
+
+# Exit early if private key is missing
+if [ ! -f "$KEY" ]; then
+    echo "Error: Missing private key at $KEY" >&2
+    exit 1
+fi
+
+resign() {
+    local IN="$1"
+    local OUT="$2"
+    # Check if FILE is staged
+    if git diff --cached --name-only | grep -q "^$IN$"; then
+        echo "Signing $IN..."
+        # Sign and write to .sig file
+        signify -S -s "$KEY" -m "$IN" -x "$OUT"
+        if [ $? -ne 0 ]; then
+            echo "Failed to sign $IN" >&2
+            exit 1
+        fi
+        # Stage the .sig file
+        git add "$OUT"
+    fi
+}
+
+resign "pack.toml" "unsup.sig"
+resign "unsup.ini" "unsup.ini.sig"
+
+exit 0

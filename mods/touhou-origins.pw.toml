@@ -1,0 +1,13 @@
+name = "Touhou Origins"
+filename = "touhouorigins-0.8.3-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3cLfTqiM/versions/I0wOteoY/touhouorigins-0.8.3-1.19.2.jar"
+hash-format = "sha512"
+hash = "f173831d702cd25075ddde72f1e18efb954cb3703055bf2f0ec6608bc7bfc0263d3764b758c73a3cfd4e84508c3e726dbf9dffb008c873c561d666785642d91b"
+
+[update]
+[update.modrinth]
+mod-id = "3cLfTqiM"
+version = "I0wOteoY"

@@ -1,0 +1,13 @@
+name = "HexText"
+filename = "hextext-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w1At1UDD/versions/YmMEwQIQ/hextext-0.1.1.jar"
+hash-format = "sha512"
+hash = "34ede74f22c5df244a67ca1d72c31ddc116bfb6a7edbb935a2a82b35a82fc9a771c19550405aa351ac94828e81b1255bab89512f0fc709ed542bd274886e2ae2"
+
+[update]
+[update.modrinth]
+mod-id = "w1At1UDD"
+version = "YmMEwQIQ"

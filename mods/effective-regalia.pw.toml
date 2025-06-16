@@ -1,0 +1,13 @@
+name = "Effective Regalia"
+filename = "effective-regalia-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ArV2M16R/versions/MBPUi4uB/effective-regalia-0.3.0.jar"
+hash-format = "sha512"
+hash = "483f0e50a5c66c06b22912b133829c95c930d534804b4e15d02a035f466f855fc5a130359bac8b1ec8ad5fac45ab09e83fb67c4d47c05ee6d5b4b5d563079f3e"
+
+[update]
+[update.modrinth]
+mod-id = "ArV2M16R"
+version = "MBPUi4uB"

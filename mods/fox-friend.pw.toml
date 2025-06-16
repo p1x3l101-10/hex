@@ -1,0 +1,13 @@
+name = "Fox Friend"
+filename = "FoxFriend-fabric-2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yPdzmBAj/versions/8Nq3DxQc/FoxFriend-fabric-2.8.jar"
+hash-format = "sha512"
+hash = "180fe7f0ec7cde03a35dac09602f8e4bfef668e5da450102d915f7ef2e9b7f8296b9350745bbea13d1e784efed665cdee491f2381ec9cfddd899512eac32206d"
+
+[update]
+[update.modrinth]
+mod-id = "yPdzmBAj"
+version = "8Nq3DxQc"

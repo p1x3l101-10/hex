@@ -1,0 +1,13 @@
+name = "Crescent"
+filename = "Crescent 2.21-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t48qAWu6/versions/1imbD3Yy/Crescent%202.21-1.19.2.jar"
+hash-format = "sha512"
+hash = "eba4718f5f7f588b8077de6504ab9ebe0c56290db1b1e63976a6d69f1c85bec7245c9a592d5bb23fe75f45884689d865039aab9e74277c85a15439f26049346c"
+
+[update]
+[update.modrinth]
+mod-id = "t48qAWu6"
+version = "1imbD3Yy"

@@ -1,0 +1,13 @@
+name = "Nether Chested"
+filename = "NetherChested-v4.0.6-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bHJp2GRg/versions/MkFSQ4tx/NetherChested-v4.0.6-1.19.2-Fabric.jar"
+hash-format = "sha512"
+hash = "44aa1f3119f18b4376e084697f4d94215667db27b4f074e9971ecec92312f1e1fbec6a36ff9dbfa631b4d92980008fa1a673017aa5223ad3977a061e2b539cd2"
+
+[update]
+[update.modrinth]
+mod-id = "bHJp2GRg"
+version = "MkFSQ4tx"

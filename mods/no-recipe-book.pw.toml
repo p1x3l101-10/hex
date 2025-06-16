@@ -1,0 +1,13 @@
+name = "No Recipe Book"
+filename = "NoRecipeBook-mc1.20.1-fabric-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/h8t6h658/versions/BijRgkSc/NoRecipeBook-mc1.20.1-fabric-1.0.1.jar"
+hash-format = "sha512"
+hash = "0e7e1fb1907d9d9a140cdfbc730e84871e6fcf93fba3602e33715d72bedb4d04ecdea946d6d73541a8a415cf13eeb6db281c9cdffedd5b6ae253411d330ed8bd"
+
+[update]
+[update.modrinth]
+mod-id = "h8t6h658"
+version = "BijRgkSc"

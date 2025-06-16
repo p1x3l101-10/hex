@@ -1,0 +1,13 @@
+name = "hexstuff"
+filename = "hexstuff-fabric-1.19.2-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7ifMBiKd/versions/KkMcudXt/hexstuff-fabric-1.19.2-0.3.0.jar"
+hash-format = "sha512"
+hash = "b44d2fb0b23220a80de08e7b66c5112489677616677f4c055975e03ab27baafe0855bcac3d1d57e394b79d20cff9fde1b6b468abb202ba64dfa05cf69fb553c4"
+
+[update]
+[update.modrinth]
+mod-id = "7ifMBiKd"
+version = "KkMcudXt"

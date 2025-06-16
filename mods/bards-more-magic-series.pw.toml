@@ -1,0 +1,13 @@
+name = "Bards [More Magic Series]"
+filename = "bards-0.0.6-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v6TwRuh6/versions/GWDO9PSY/bards-0.0.6-1.19.2.jar"
+hash-format = "sha512"
+hash = "03dbf55c68c17be986e2637586c35716df29deaebee2e17cf699bbce60391b5fb5e5fc2adff3fc52d317791524b2578fad62015b44e764159653be7f9f611a07"
+
+[update]
+[update.modrinth]
+mod-id = "v6TwRuh6"
+version = "GWDO9PSY"

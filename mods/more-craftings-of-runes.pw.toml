@@ -1,0 +1,13 @@
+name = "More Craftings of Runes  [More Magic Series]"
+filename = "mcrmod-0.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kv3gfOjN/versions/hQ26okpg/mcrmod-0.0.1-1.19.2.jar"
+hash-format = "sha512"
+hash = "0bec3a6725fd5b7b29f083b7dee88b941750a8f0e9143a4b9e511d2c5fda6e01c98bb345771c07c68f9990a262146e6591bb87c363675897abbca28f545fc5ec"
+
+[update]
+[update.modrinth]
+mod-id = "kv3gfOjN"
+version = "hQ26okpg"

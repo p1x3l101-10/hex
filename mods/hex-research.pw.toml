@@ -1,0 +1,13 @@
+name = "Hex Research"
+filename = "hexresearch-fabric-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IwDgJLXt/versions/dLhix67M/hexresearch-fabric-1.19.2-1.0.1.jar"
+hash-format = "sha512"
+hash = "77f836ec8d7197eaefb3a17d656113330c7096c4ce4a252a87e0acbcd2467a04b61ce9d0373c62129cd5a8b0dffcc765e5d858fcdcf33cb5c73a3872fa4425e4"
+
+[update]
+[update.modrinth]
+mod-id = "IwDgJLXt"
+version = "dLhix67M"

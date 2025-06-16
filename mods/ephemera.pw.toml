@@ -1,0 +1,13 @@
+name = "Ephemera"
+filename = "ephemera-fabric-1.19.2-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yMW33ga1/versions/nBB2TgEW/ephemera-fabric-1.19.2-0.2.1.jar"
+hash-format = "sha512"
+hash = "491f050aa34d53facb89076753c939226567eae364fc37d98cdd9dfeb66797601ab0c5de9e8c30caedbccc4458b7949c8d8868062384e1cacbb961653096dc70"
+
+[update]
+[update.modrinth]
+mod-id = "yMW33ga1"
+version = "nBB2TgEW"

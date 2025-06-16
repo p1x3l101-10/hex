@@ -1,0 +1,13 @@
+name = "The Ceilands"
+filename = "Ceilands-QuiFabrge-1.19.2-0.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E5mp2BeP/versions/hO3UCLuX/Ceilands-QuiFabrge-1.19.2-0.7.2.jar"
+hash-format = "sha512"
+hash = "8c8cbee21c239bf4fc83ca9b124e625d83d67a799dd3784d51a969cc5bef2eea46df6d3176b6419f601204d96f4991494686db8eaba573f514a88708d563d5f7"
+
+[update]
+[update.modrinth]
+mod-id = "E5mp2BeP"
+version = "hO3UCLuX"

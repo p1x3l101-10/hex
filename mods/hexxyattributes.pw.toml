@@ -1,0 +1,13 @@
+name = "Hexxy Attributes"
+filename = "hexxyattributes-Fabric-1.19.2-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hXknBxN6/versions/XqL5hjvj/hexxyattributes-Fabric-1.19.2-1.1.jar"
+hash-format = "sha512"
+hash = "c6874b4ea2b65709a7642fdb7477bd79f703537846931d793da208876c5d307667a1e81b63827a5a9167a3c3766214dde61e2b375299eacc230dfc0f1cb0a0e4"
+
+[update]
+[update.modrinth]
+mod-id = "hXknBxN6"
+version = "XqL5hjvj"

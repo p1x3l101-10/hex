@@ -1,0 +1,13 @@
+name = "Qu Enchantments"
+filename = "qu-enchantments-1.2.4-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3a1700225ea8bd3894da6f4ad53e76c73a1ae15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3992990
+project-id = 622228

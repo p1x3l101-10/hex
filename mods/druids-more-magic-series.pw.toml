@@ -1,0 +1,13 @@
+name = "Druids [More Magic Series]"
+filename = "druid-0.0.3-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o88ZjSh6/versions/IeOwCahr/druid-0.0.3-1.19.2.jar"
+hash-format = "sha512"
+hash = "b15caa345f190cd4169b61203ac79ea347d9eeae0bc17310d5503abcd4726108b0bbc7523a8ce51ea8e6c612a556e0263181a92a6bd968a2512cb482b411c3cc"
+
+[update]
+[update.modrinth]
+mod-id = "o88ZjSh6"
+version = "IeOwCahr"

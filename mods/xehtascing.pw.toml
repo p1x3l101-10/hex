@@ -1,0 +1,13 @@
+name = "XehTascing"
+filename = "xehtascing-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/szK4Qeyk/versions/EKIvHnUg/xehtascing-1.0.0.jar"
+hash-format = "sha512"
+hash = "92d25d89ffe299e6e68dbb285d2870490cb29ad3a2c3f871e95c9c3429a0eb98695d8f100a1f8610507ceb09fa359267b37b90622f3a0e69e6c00392a7d5f637"
+
+[update]
+[update.modrinth]
+mod-id = "szK4Qeyk"
+version = "EKIvHnUg"

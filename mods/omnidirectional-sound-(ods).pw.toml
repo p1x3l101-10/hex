@@ -1,0 +1,13 @@
+name = "Omnidirectional-sound (ODS)"
+filename = "omni-directional-sound+1.19.2-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GQwkKHCJ/versions/36zmInpO/omni-directional-sound%2B1.19.2-1.0.0.jar"
+hash-format = "sha512"
+hash = "2ad11e2685603f19e6e2f2bf11e3a65f53715d1e431bdb88f2fa01cbf911b1e9196b1e892f52d3968d406374af8be8e153a0a2d3aae8fc0116072bb89b4ec29f"
+
+[update]
+[update.modrinth]
+mod-id = "GQwkKHCJ"
+version = "36zmInpO"

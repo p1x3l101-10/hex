@@ -1,0 +1,13 @@
+name = "Fast Backups"
+filename = "fastback-0.7.4+1.19.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/emanm5VA/fastback-0.7.4%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "9080244bc12f402e867904bed9d2f056689ff9acb06dfea3b3f2e589621b7a018b782e212206bc39969bdcc377bed9be5f6171d30ee5f313694ee434f4a0913e"
+
+[update]
+[update.modrinth]
+mod-id = "ZHKrK8Rp"
+version = "emanm5VA"

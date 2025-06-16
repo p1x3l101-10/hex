@@ -1,0 +1,13 @@
+name = "HexTweaks"
+filename = "hextweaks-3.2.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pim6pG9O/versions/vRGtikRV/hextweaks-3.2.3-fabric.jar"
+hash-format = "sha512"
+hash = "8de658eba5c1297ac046e057c45bb2734a04a3182a6ef719d2f711e08b615f8f5f20853f62eae6d37a8733401d126017df6a42f4a9b9b4b50a3d05fb5a0d4ca4"
+
+[update]
+[update.modrinth]
+mod-id = "pim6pG9O"
+version = "vRGtikRV"

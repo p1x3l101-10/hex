@@ -1,0 +1,13 @@
+name = "Hex Ways"
+filename = "hexways-Fabric-1.19.2-0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YHdZ4gTh/versions/wmrYTSyA/hexways-Fabric-1.19.2-0.7.jar"
+hash-format = "sha512"
+hash = "846cae4c7bc71c693c2d704bdf533b3a5be70eb1b65e75c1063c5e1b3bc6b5f9e46b1b9757c3357a9c1e60e48d7f4ad0efb652a04e9e81b24e6c2e597cdd7295"
+
+[update]
+[update.modrinth]
+mod-id = "YHdZ4gTh"
+version = "wmrYTSyA"

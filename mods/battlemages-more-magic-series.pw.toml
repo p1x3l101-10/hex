@@ -1,0 +1,13 @@
+name = "Battlemages [More Magic Series]"
+filename = "battlemages-0.0.5-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7RTcs7yj/versions/BSZamElX/battlemages-0.0.5-1.19.2.jar"
+hash-format = "sha512"
+hash = "69c02b65bcfe525e9782513b7b5954a51a7c464d048ecb61422371ac789d65f158986f1246cc9da926619c3e5eb7869da7e884151fd32ac51cbe66c082402836"
+
+[update]
+[update.modrinth]
+mod-id = "7RTcs7yj"
+version = "BSZamElX"

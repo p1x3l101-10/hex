@@ -1,0 +1,13 @@
+name = "Toggle Enchantments"
+filename = "togenc-fabric-1.19.x-v1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OzKqGHgZ/versions/qM4wuH2V/togenc-fabric-1.19.x-v1.0.jar"
+hash-format = "sha512"
+hash = "fd0539f2e0758501b55d5ed122e479e7782a60fa5b46106b68fe00d52cd5f42540875a3bb23aa2151499efd34f0f03104d40ef5cc5b365377213f9fdf7973c20"
+
+[update]
+[update.modrinth]
+mod-id = "OzKqGHgZ"
+version = "qM4wuH2V"

@@ -1,0 +1,13 @@
+name = "Fallen Wizards [More Magic Series]"
+filename = "fallenwizardsmod-0.1.3-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SLhfoy0B/versions/SX6bXyie/fallenwizardsmod-0.1.3-1.19.2.jar"
+hash-format = "sha512"
+hash = "9780d31a02936280319e0fc73e468f8bba6bf23a941c1cbd58c88a6bc6cd9116e1d98e1a76a2f5b9539190bf34f954480b187a1d921d8cd112a4d0a343414663"
+
+[update]
+[update.modrinth]
+mod-id = "SLhfoy0B"
+version = "SX6bXyie"

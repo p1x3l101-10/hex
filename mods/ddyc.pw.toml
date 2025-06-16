@@ -1,0 +1,13 @@
+name = "Dont Drop Your Compass"
+filename = "dont_drop_your_compass-1.19.2-1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xzeX4hke/versions/vTRi53zD/dont_drop_your_compass-1.19.2-1.0-fabric.jar"
+hash-format = "sha512"
+hash = "bbecf1d8e105e797bdab507bd2df0b69a46b41d2a9d79f8214ae8de024dd1122b8ba92fd2c10b095e2cae8ef63fd0a83995fbda096373afe7468cd9413518c75"
+
+[update]
+[update.modrinth]
+mod-id = "xzeX4hke"
+version = "vTRi53zD"

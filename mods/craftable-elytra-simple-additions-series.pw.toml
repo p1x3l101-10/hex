@@ -1,0 +1,13 @@
+name = "Craftable Elytra [Simple Additions Series]"
+filename = "craftbleelytra-0.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KlHF32LT/versions/MQKSncbK/craftbleelytra-0.0.1-1.19.2.jar"
+hash-format = "sha512"
+hash = "fdb1b941f8da106342aeff7bd1918f1d52a0fe350b1e28c4c7a7746244e34c3dd80b7e1b4990b44ee6eb2c0985730dfed25713886ba51309895c728db96a9865"
+
+[update]
+[update.modrinth]
+mod-id = "KlHF32LT"
+version = "MQKSncbK"

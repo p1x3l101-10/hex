@@ -1,0 +1,13 @@
+name = "Fabric Shield Lib"
+filename = "FabricShieldLib-1.7.2-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7SDalH12/versions/gUj8lF08/FabricShieldLib-1.7.2-1.19.2.jar"
+hash-format = "sha512"
+hash = "da75492d64ab6adaa24bbee3fd79716b8198f9305db495f90ebcae0685a0a17751c8736a5b8e9d5b061f1330e4ecdb8de538652c78f1643db28a104d33fea43e"
+
+[update]
+[update.modrinth]
+mod-id = "7SDalH12"
+version = "gUj8lF08"

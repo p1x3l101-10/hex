@@ -1,0 +1,13 @@
+name = "Mystic Potions"
+filename = "MysticPotions-1.3.2-1.19.2-Multi.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5UdtzIKo/versions/GExkOBPT/MysticPotions-1.3.2-1.19.2-Multi.jar"
+hash-format = "sha512"
+hash = "7b7cff4c32298fe0f78e2c5e2c8f2e244f32887cfa36ba7f464819498f9dbfa0e63e8e94e83b801d302b50de403fb5aaf2829b4eceb9f98f8af314cbada82f2e"
+
+[update]
+[update.modrinth]
+mod-id = "5UdtzIKo"
+version = "GExkOBPT"

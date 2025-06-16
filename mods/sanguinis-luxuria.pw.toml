@@ -1,0 +1,13 @@
+name = "Sanguinis Luxuria"
+filename = "sanguinisluxuria-1.1.3+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tZTv5N9z/versions/3XiEt6s6/sanguinisluxuria-1.1.3%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "d46b2b7144c56e64a744d20de92e9944fe03a4579836f2e4f1b37fe149a2edf527d9c83f19369b64ee43bf8bcd18cdf6633cdabf6b0e946a8932519344717835"
+
+[update]
+[update.modrinth]
+mod-id = "tZTv5N9z"
+version = "3XiEt6s6"

@@ -1,0 +1,13 @@
+name = "Arcwise - Puffish Skill Tree"
+filename = "arcwise-1.19.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Uddo3yY/versions/TrmXjvOg/arcwise-1.19.2-fabric.jar"
+hash-format = "sha512"
+hash = "23b3c7f33fef363067a874b48e9e020163e421d78f318a638cd2a247629c7d1f51e9111acc750bc6b73134b2c30d89ce94594bbdb78032b0f9c961063faa743a"
+
+[update]
+[update.modrinth]
+mod-id = "8Uddo3yY"
+version = "TrmXjvOg"

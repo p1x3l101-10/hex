@@ -1,0 +1,13 @@
+name = "Chance of Precipitation"
+filename = "riskytrinkets-0.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S0lYS8L8/versions/d1PMi8x2/riskytrinkets-0.0.1-1.19.2.jar"
+hash-format = "sha512"
+hash = "3daa7b2c4a567ce54efd0a0849a1d907d81811e11dce66cf93c26fea0483aabe2ad458872f9388e98dd97be551a164d2cdf1972790e23f6782fe310b7382ce68"
+
+[update]
+[update.modrinth]
+mod-id = "S0lYS8L8"
+version = "d1PMi8x2"

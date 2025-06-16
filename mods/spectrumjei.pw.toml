@@ -1,0 +1,13 @@
+name = "SpectrumJEI"
+filename = "SpectrumJEI-19.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8FtYXJhp/versions/7fAc6HsY/SpectrumJEI-19.2.0.jar"
+hash-format = "sha512"
+hash = "ca699a7348b37d220f4b86861b5e7de77ace6e82135a2f10d4ee17f32b21d1a59437b304ab2555625e41a375358e1df94da1a958ccbca3abc43da3571a34b97f"
+
+[update]
+[update.modrinth]
+mod-id = "8FtYXJhp"
+version = "7fAc6HsY"

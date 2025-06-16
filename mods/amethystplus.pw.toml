@@ -1,0 +1,13 @@
+name = "Amethyst Plus"
+filename = "amethystplus-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iPh2zNvR/versions/cOfF28co/amethystplus-1.0.2.jar"
+hash-format = "sha512"
+hash = "b3a21e82c9dd9b21f8b740fa5b30798754157082dadb747d88fadd8f9129550c140877d07c630087b8a75de578b35413cec03b97e12125ef995c9cd336de64a8"
+
+[update]
+[update.modrinth]
+mod-id = "iPh2zNvR"
+version = "cOfF28co"

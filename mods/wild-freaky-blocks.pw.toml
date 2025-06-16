@@ -1,0 +1,13 @@
+name = "Wild Freaky Blocks"
+filename = "WFB+fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/5YK1I5kS/versions/t9Aqqb0c/WFB%2Bfabric.jar"
+hash-format = "sha512"
+hash = "39ac2847ea8d5024c51d24530d77950bbb035a0c56a0198a7071499ea3c794dc607c4957c66cc575a4caa3ed263c6af80f415ed47e2092ce3aeec3b5bbdca5ca"
+
+[update]
+[update.modrinth]
+mod-id = "5YK1I5kS"
+version = "t9Aqqb0c"

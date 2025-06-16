@@ -1,0 +1,13 @@
+name = "Divine Conflict"
+filename = "DivineConflict_1.0.3_1.19.2_fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fzXvY4X3/versions/jwEqRdAc/DivineConflict_1.0.3_1.19.2_fabric.jar"
+hash-format = "sha512"
+hash = "4e7ae407d0bade316e8282a724c4448a3ca877524a707a46056a926b96992cb7a5d8141f900e7d866273f8106dd9a563aefbc9a550cfdea4749f07a657dea1a0"
+
+[update]
+[update.modrinth]
+mod-id = "fzXvY4X3"
+version = "jwEqRdAc"

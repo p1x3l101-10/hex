@@ -1,0 +1,13 @@
+name = "More Matter Alchemy"
+filename = "MoreMatterAlchemy-0.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/40kBiPTu/versions/8GlIRgJY/MoreMatterAlchemy-0.3.2.jar"
+hash-format = "sha512"
+hash = "6e4c0bb1c35b9931408f3b9b09c2919462d70bc94bf7f319e14f2c44dbdb9370e13b6f148e07724fa7b37d2393481107eefa6546b620cd591a4f699985aaa70b"
+
+[update]
+[update.modrinth]
+mod-id = "40kBiPTu"
+version = "8GlIRgJY"

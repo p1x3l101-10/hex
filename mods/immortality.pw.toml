@@ -1,0 +1,13 @@
+name = "Immortality (Fabric)"
+filename = "immortality-1.1.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zF56jttu/versions/uCFbKGXW/immortality-1.1.1-1.19.2.jar"
+hash-format = "sha512"
+hash = "5b024025d9adf25cfb5fe4ef71890f3c9454ddd0eb6666fdd2e58506fb3b9c63407717f844085286cb3209277c6540fdcaa23d7ebdba57be727d848f3842858a"
+
+[update]
+[update.modrinth]
+mod-id = "zF56jttu"
+version = "uCFbKGXW"

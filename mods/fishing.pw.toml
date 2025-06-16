@@ -1,6 +1,6 @@
 name = "Realistic Fishing"
 filename = "fishing-1.2.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jov013LO/versions/86OpM49z/fishing-1.2.1.jar"

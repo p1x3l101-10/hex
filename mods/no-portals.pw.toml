@@ -1,6 +1,6 @@
 name = "No Portals"
 filename = "no-portals-1.19.3-1.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZzkyvOit/versions/D9do9uxW/no-portals-1.19.3-1.0.1.jar"

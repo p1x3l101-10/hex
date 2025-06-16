@@ -2,7 +2,7 @@ On first start, you will see a flavor selection screen. If you want to see this 
 
 # How to install
 
-Import the unsup Prismlauncher component into an empty instance on version `1.20.1` with forge (not neoforge) installed (unsup can change the forge version, so dont worry about getting the correct version)
+Import the unsup Prismlauncher component into an empty instance on version `1.19.2` with fabric installed (unsup can change the fabric version, so dont worry about getting the correct version)
 <details>
 <summary>How to install a custom component</summary>
 <br>

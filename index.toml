@@ -625,14 +625,6 @@ file = "config/sodium-options.json"
 hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
 [[files]]
-file = "config/sol_valheim/client.json5"
-hash = "550cb63f7aec3889a3bba5baa7bb51687ecf128c707e20fa9c770570c4e13871"
-
-[[files]]
-file = "config/sol_valheim/common.json5"
-hash = "0e0b102c097ba68ed30ab68f9fde022a6c4eae82c1e368c7e5915a68bc46f987"
-
-[[files]]
 file = "config/soulbound.json"
 hash = "1b0c650443045a76533209f304f50eb516e544e9312c25fff0381ab5eea326e9"
 
@@ -663,6 +655,10 @@ hash = "be5539c3ff4f3af3a3b5f0145d760c0de6710977c2dc645118457cfeb588dd17"
 [[files]]
 file = "config/spell_power/status_effects.json"
 hash = "7b36010dfb0bd67251eacf8f0a6ebaa3b0d5c3dfcc574f4ddbe6b6b4809337de"
+
+[[files]]
+file = "config/spiceoffabric.hjson"
+hash = "981965acfaecdae132ab2e45c37a9bcbec26ff516debf14fc2360de8bcfd1900"
 
 [[files]]
 file = "config/tectonic.json"
@@ -1515,8 +1511,8 @@ hash = "6473a85c20633584b9a97a635fa7fb6191f5beac5867e09aa321a23d9682c516"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-life-valheim-edition.pw.toml"
-hash = "5c49ef67827cb911638b664c52a36db30226416b0205d8b3d43ccf8e52842f8c"
+file = "mods/spice-of-fabric.pw.toml"
+hash = "27ee0642492353eb4d224cdb632da69090470253b6de5af8433129107059a3b6"
 metafile = true
 
 [[files]]

@@ -1606,11 +1606,6 @@ hash = "09122a6e8a894b0dfb12250ce7b00e887ee6fc0d06ec4ca7f7435fb503aeee1a"
 metafile = true
 
 [[files]]
-file = "mods/sanguinis-luxuria.pw.toml"
-hash = "ef0b2398dcfa52fd04774bf137e9f4c98dc174fbffe66a5f5f721b7c41b9b0af"
-metafile = true
-
-[[files]]
 file = "mods/scannable.pw.toml"
 hash = "a2af9ceb1e87ec08d1df20883536e167dbe9e6aba7efd9210363a39d3b7e1e45"
 metafile = true
@@ -1756,11 +1751,6 @@ hash = "7cbd442dc4816697956f89b1e759ef310f22801afa0284b8a6c271a93f82a455"
 metafile = true
 
 [[files]]
-file = "mods/url-music-discs.pw.toml"
-hash = "5eaa2eadc78f978b8c1dc946f527bd1c8c9b6e8be4d3bdf4e996cb697da54f4d"
-metafile = true
-
-[[files]]
 file = "mods/victus.pw.toml"
 hash = "d24e99eaae56fdc410d70bf35fa8747d69013afc385d58358843023a0a54c312"
 metafile = true
@@ -1853,11 +1843,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "20f55a0f120ddb147d18920d22a33657e8ca23ae0e7aa7adcb85725828c78708"
-metafile = true
-
-[[files]]
-file = "mods/zenith.pw.toml"
-hash = "3c938a4475e834778de86abdfd597aff626958d78bc61925d2ad4945c9c72df5"
 metafile = true
 
 [[files]]

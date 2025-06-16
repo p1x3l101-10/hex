@@ -1646,11 +1646,6 @@ hash = "f4e1b16843271847fe11527552a875d1c9ca4c4f17a27eeeeb6c6756cc8edc05"
 metafile = true
 
 [[files]]
-file = "mods/speech_to_spell.pw.toml"
-hash = "dffb774487ed349ba79ce17da002e9c9a5ae5f145ce286a41b7e636bad20bc0f"
-metafile = true
-
-[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "572df3bb3efacaf7b19a513f35a188d84b34165119b20039a73998d3e06dc9b1"
 metafile = true

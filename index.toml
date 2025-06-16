@@ -962,8 +962,4 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "9e56fa52906f278d2ce3cca6d66ca61057f2343a851532002368919f733d3b0a"
-
-[[files]]
-file = "unsup.toml"
-hash = "92f4aed4910e9fe663bb6843332474547126282ac64a5272cac335f3c9fa70a8"
+hash = "37d04bbd617283eff618e2ce034ca738bc3b94acaea365f85088542c5f1765c3"

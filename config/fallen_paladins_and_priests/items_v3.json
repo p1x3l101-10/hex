@@ -1,0 +1,235 @@
+{
+  "weapons": {
+    "unholy_staff": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "spell_attributes": [
+        {
+          "name": "healing",
+          "value": 4.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "netherite_unholy_staff": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "spell_attributes": [
+        {
+          "name": "healing",
+          "value": 5.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "starforged_unholy_staff": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "spell_attributes": [
+        {
+          "name": "healing",
+          "value": 6.0,
+          "operation": "ADDITION"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "fell_priest_robe_t2": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "fell_priest_robe_t1": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      }
+    },
+    "fell_paladin_armor_t1": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 0.5,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 0.5,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 5,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 0.5,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 0.5,
+            "operation": "ADDITION"
+          }
+        ]
+      }
+    },
+    "fell_paladin_armor_t2": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 5,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      }
+    }
+  }
+}

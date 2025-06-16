@@ -1,0 +1,11 @@
+{
+  "watchForConfigChanges": true,
+  "displayModeWhenFlying": "FULL",
+  "displayModeWhenNotFlying": "NONE",
+  "calculateRoll": true,
+  "gpws": true,
+  "stickShaker": true,
+  "lowElytraHealthAlarm": true,
+  "lowElytraHealthAlarmThreshold": 10,
+  "unsafeFireworksAlert": true
+}

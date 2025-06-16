@@ -1,0 +1,83 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				panda = true
+				axolotl = true
+				bee = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				allay = true
+				skeleton = true
+				bat = true
+				frog = true
+				hoglin = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				turtle = true
+				wandering_trader = true
+				wither_skeleton = true
+				vex = true
+				ocelot = true
+				item_frame = true
+				phantom = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				trader_llama = true
+				tropical_fish = true
+				chest_minecart = true
+				slime = true
+				iron_golem = true
+				zombified_piglin = true
+				piglin = true
+				blaze = true
+				cat = true
+				zombie = true
+				guardian = true
+				ghast = true
+				fireball = true
+				sheep = true
+				player = true
+				pufferfish = true
+				trident = true
+				villager = true
+				zombie_villager = true
+				tnt_minecart = true
+				elder_guardian = true
+				strider = true
+				witch = true
+				cod = true
+				spider = true
+
+			[light_sources.settings.entities.bosses_of_mass_destruction]
+				void_blossom = true
+

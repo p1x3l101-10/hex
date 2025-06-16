@@ -1,0 +1,13 @@
+{
+  "conflictWithVanishingCurse": true,
+  "isTreasure": true,
+  "allowEnchantedBookTrade": true,
+  "allowBreakItem": false,
+  "disableSurvivalObtaining": false,
+  "maxDamagePercent": 20,
+  "minPower": 25,
+  "powerRange": 50,
+  "compatibilityMode": "DEFAULT",
+  "blacklist": [],
+  "whitelist": []
+}

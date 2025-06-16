@@ -1,0 +1,8 @@
+{
+	"costs": {
+		"mindPurificationCost": 1.5,
+		"domainReflectionCost": 0.0,
+		"sentinelDomainReflectionCost": 0.0,
+		"mediaReflectionCost": 0.0
+	}
+}

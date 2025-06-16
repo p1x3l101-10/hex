@@ -1,0 +1,14 @@
+{
+  "stronghold_corridor_ancient_sack_spawn_chance": 0.5,
+  "stronghold_crossing_ancient_sack_spawn_chance": 0.3,
+  "ruined_portal_ancient_sack_spawn_chance": 0.3,
+  "simple_dungeon_ancient_sack_spawn_chance": 0.7,
+  "abandoned_mineshaft_ancient_sack_spawn_chance": 0.3,
+  "buried_treasure_ancient_sack_spawn_chance": 0.7,
+  "shipwreck_treasure_ancient_sack_spawn_chance": 0.3,
+  "bastion_treasure_ancient_sack_spawn_chance": 0.7,
+  "end_city_treasure_ancient_sack_spawn_chance": 0.7,
+  "bastion_treasure_precious_sack_spawn_chance": 0.5,
+  "end_city_treasure_precious_sack_spawn_chance": 0.5,
+  "void_blossom_precious_sack_drop_chance": 0.3
+}

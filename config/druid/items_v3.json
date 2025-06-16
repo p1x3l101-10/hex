@@ -1,0 +1,158 @@
+{
+  "weapons": {
+    "wooden_nature_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "spell_attributes": [
+        {
+          "name": "healing",
+          "value": 2.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "iron_nature_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "spell_attributes": [
+        {
+          "name": "healing",
+          "value": 4.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "starforged_nature_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "spell_attributes": [
+        {
+          "name": "healing",
+          "value": 6.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "netherite_nature_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "spell_attributes": [
+        {
+          "name": "healing",
+          "value": 5.0,
+          "operation": "ADDITION"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "druids_armor_t1": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      }
+    },
+    "druids_armor_t2": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "haste",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "haste",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "haste",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "healing",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "haste",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    }
+  }
+}

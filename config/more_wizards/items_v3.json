@@ -1,0 +1,308 @@
+{
+  "weapons": {
+    "starforged_lightning_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "spell_attributes": [
+        {
+          "name": "lightning",
+          "value": 6.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "netherite_lightning_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "spell_attributes": [
+        {
+          "name": "lightning",
+          "value": 5.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "starforged_soul_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "spell_attributes": [
+        {
+          "name": "soul",
+          "value": 6.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "netherite_soul_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "spell_attributes": [
+        {
+          "name": "soul",
+          "value": 5.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "lightning_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "spell_attributes": [
+        {
+          "name": "lightning",
+          "value": 4.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "soul_staff": {
+      "attack_damage": 5.0,
+      "attack_speed": -3.2,
+      "spell_attributes": [
+        {
+          "name": "soul",
+          "value": 4.0,
+          "operation": "ADDITION"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "lightning_wizard_armor_t1": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "lightning",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "spell_attributes": [
+          {
+            "name": "lightning",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "spell_attributes": [
+          {
+            "name": "lightning",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "lightning",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      }
+    },
+    "lightning_wizard_armor_t2": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "lightning",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "critical_damage",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "critical_chance",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "spell_attributes": [
+          {
+            "name": "lightning",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "critical_damage",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "critical_chance",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "spell_attributes": [
+          {
+            "name": "lightning",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "critical_damage",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "critical_chance",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "lightning",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "critical_damage",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "critical_chance",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "soul_wizard_armor_t1": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "soul",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "spell_attributes": [
+          {
+            "name": "soul",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "spell_attributes": [
+          {
+            "name": "soul",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "soul",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      }
+    },
+    "soul_wizard_armor_t2": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "soul",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "spell_attributes": [
+          {
+            "name": "soul",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "spell_attributes": [
+          {
+            "name": "soul",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "spell_attributes": [
+          {
+            "name": "soul",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "name": "haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    }
+  }
+}

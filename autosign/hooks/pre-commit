@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -euo pipefail
+
 # Run refresh regardless of what changed
 packwiz refresh
 git add pack.toml index.toml

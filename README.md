@@ -2,6 +2,11 @@ On first start, you will see a flavor selection screen. If you want to see this 
 
 # How to install
 
+## Option 1: Bootstrap pack
+There is a bootstrap prismlauncher instance that you can just import in the releases page
+
+## Option 2: Manually
+
 Import the unsup Prismlauncher component into an empty instance on version `1.19.2` with fabric installed (unsup can change the fabric version, so dont worry about getting the correct version)
 <details>
 <summary>How to install a custom component</summary>
@@ -36,4 +41,3 @@ The prebuilt version has the arguments as a component, so it should be pretty pl
 
 NOTE: Bootstrap URLs require unsup 1.1.3 or higher to use
 
-NOTE 2: If you just want a bootstrap pack instead, ask me ig.

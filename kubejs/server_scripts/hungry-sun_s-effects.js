@@ -55,10 +55,10 @@ HexcastingEvents.registeredPatternCastEvent((e) => {
         e.finish();
     } else if (e.getPattern().anglesSignature() == "ded") {
         let stack = e.getStack();
-        if (stack.length < 3) {
+        if (stack.length < 1) {
             e.scheduleMishap("§dMental Pulverizer§f Expected 1 argument");
             e.finish();
-        } else if (! stack[stack.length - 3] instanceof EntityIota) {
+        } else if (! stack[stack.length - 1] instanceof EntityIota) {
             e.scheduleMishap("§dMental Pulverizer§f Expected entity at index 0 of the stack");
             e.finish();
         }

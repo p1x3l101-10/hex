@@ -722,7 +722,7 @@ hash = "560c95738d982ea346f9568349cfe177428d692c697758f387ce250f1f50dc71"
 
 [[files]]
 file = "kubejs/server_scripts/hungry-sun_s-effects.js"
-hash = "9b5267b465873a9ba434c93502b01ec6ea4008a49bef8384162dffd559b4174a"
+hash = "58673b137e5e03a7d2486be618eae50b9c6d2efc6a9d8f780eed0b58f4cd4719"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1682,11 +1682,6 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "6473a85c20633584b9a97a635fa7fb6191f5beac5867e09aa321a23d9682c516"
-metafile = true
-
-[[files]]
-file = "mods/spice-of-fabric.pw.toml"
-hash = "27ee0642492353eb4d224cdb632da69090470253b6de5af8433129107059a3b6"
 metafile = true
 
 [[files]]

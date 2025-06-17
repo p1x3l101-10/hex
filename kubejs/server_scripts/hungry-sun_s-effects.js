@@ -1,8 +1,8 @@
-Hexcasting.registerCustomPattern("Hungry Sun's Nadir", "qqedwaeqdwddw", false, false);
-Hexcasting.registerCustomPattern("Hungry Sun's Zenith", "qqedwaeqdwddwwdwd", true, true);
+Hexcasting.registerCustomPattern("Hungry Sun's Nadir", "qqeawaeqawaaw", false, false);
+Hexcasting.registerCustomPattern("Hungry Sun's Zenith", "qqeawaeqawaawwawa", true, true);
 
 HexcastingEvents.registeredPatternCastEvent((e) => {
-    if (e.getPattern().anglesSignature() == "qqedwaeqdwddw") {
+    if (e.getPattern().anglesSignature() == "qqeawaeqawaaw") {
         let stack = e.getStack();
         if (stack.length < 3) {
             e.scheduleMishap("Expected 3 arguments");
@@ -21,7 +21,7 @@ HexcastingEvents.registeredPatternCastEvent((e) => {
         }
         e.finish();
     }
-    if (e.getPattern().anglesSignature() == "qqedwaeqdwddwwdwd") {
+    if (e.getPattern().anglesSignature() == "qqeawaeqawaawwdwd") {
         let stack = e.getStack();
         if (stack.length < 3) {
             e.scheduleMishap("Expected 3 arguments");

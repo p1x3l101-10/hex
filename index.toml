@@ -1471,11 +1471,6 @@ hash = "09919474576a772b095adae60f916a3292318ebd0f411e248173a4f33abeab38"
 metafile = true
 
 [[files]]
-file = "mods/no-portals.pw.toml"
-hash = "6406c0d7b2bb5015383af5cb32a4d6bbe4c9682a4c29ed6ba377a7a96e5f6f57"
-metafile = true
-
-[[files]]
 file = "mods/no-recipe-book.pw.toml"
 hash = "bd6bce071dd15b43afa200e5a673aa98c2736ada2a1530583e6c48c68a44a7a6"
 metafile = true

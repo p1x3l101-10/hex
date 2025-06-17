@@ -1706,11 +1706,6 @@ hash = "6586454d82d0e98059fc88b4926c8d498714e232feb4b5d945021ee539c50619"
 metafile = true
 
 [[files]]
-file = "mods/toggle-enchantments.pw.toml"
-hash = "cc15c680574f74279c90956b2555bf697acea7ce918a2c6131e4137913e1ee4f"
-metafile = true
-
-[[files]]
 file = "mods/touhou-origins-blessings.pw.toml"
 hash = "2a7e4f368a7f81be4d0f28a4925f2c5b172a8e246f6d102db902ca61b4aab02e"
 metafile = true

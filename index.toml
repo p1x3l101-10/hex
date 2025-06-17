@@ -931,11 +931,6 @@ hash = "89f901a91a1db7ea612152bfc41f63c27c753c5e69b1c34071e300afac85a45f"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "19bac2a0ded2c4d4ba1ff52f2a5279782b8e052342a4097844ee4ad8e483289b"
-metafile = true
-
-[[files]]
 file = "mods/divine-conflict.pw.toml"
 hash = "5f4bbd0e38aa7071de4adc9e97ba12d0990970e3061a99457ffea9c98482eaf3"
 metafile = true

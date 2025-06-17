@@ -1366,6 +1366,11 @@ hash = "f1ba5a88acf118f60ae2a7aa9b86eb5dfdbd18958f1e4856425000e4680cb39e"
 metafile = true
 
 [[files]]
+file = "mods/lodestone-update-backport.pw.toml"
+hash = "eda8c9559cf61652774ae1c68acf9a23e8b3b7e6d8c6f8e03cc295335a119e23"
+metafile = true
+
+[[files]]
 file = "mods/map-atlases.pw.toml"
 hash = "9169bc03be2673fb56e783ea9127542970ea5f53579f2eb0e179a3a1194b2aa5"
 metafile = true

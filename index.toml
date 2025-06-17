@@ -736,6 +736,21 @@ hash = "37f88a4d168545f044b01aa1797e6498fb1cc46c19ab141fb0f4d06b46f2d2d6"
 metafile = true
 
 [[files]]
+file = "mods/ae2-mousetweaks-fix.pw.toml"
+hash = "2b4bc7596c0c4ea12e17728530b201aa4b56284c68fc2d5b138a5ddc55ceee3c"
+metafile = true
+
+[[files]]
+file = "mods/ae2-things-fabric-1-19-2.pw.toml"
+hash = "a7dcfbf00b1351d20774afaf19698beb2eb688ac0bf27f9549a4069690852005"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "f1a96a0fedba5714ee65167abd8b78f29c06956c692c988e819aee01fe3a95c2"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "cde4539b9bb767d7a8d01053069273cf75c925ed60757ebc0a6b38d9569cd01f"
 metafile = true
@@ -1556,6 +1571,16 @@ hash = "4b73e5e3d4ee89d14c8e2f41e702554cd4510525533b144843cfe68d97a8929a"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "2320c7dd0c1741da3943a5f0932a688b5323360b895e26a398c4b4a9246be67b"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "c96b115051dd4e634a41c82ae77ccee05877309e36182747f5eea9d36a6fdbed"
+metafile = true
+
+[[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
 hash = "c4237dabeb52539c94b76c895483c4cf63c1c92d8b5f633510b258d879020834"
 metafile = true
@@ -1703,6 +1728,11 @@ metafile = true
 [[files]]
 file = "mods/this-boat-is-mine.pw.toml"
 hash = "6586454d82d0e98059fc88b4926c8d498714e232feb4b5d945021ee539c50619"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "268e3849eb23bef7fd9443492473cdb2a33a45b699df9461b3ca611e2bb086fe"
 metafile = true
 
 [[files]]

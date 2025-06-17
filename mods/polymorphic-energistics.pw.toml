@@ -1,0 +1,13 @@
+name = "Polymorphic Energistics"
+filename = "polyeng-fabric-0.1.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VS1a14jA/versions/KCk6T4Zn/polyeng-fabric-0.1.1-1.19.2.jar"
+hash-format = "sha512"
+hash = "fd9ac5a00b2dc14723edf33067071b88a2db3bfbca2ea7e5b2fe0bff921035bb6198e00edd30f514ee8ee91b11fec44132e2cf10c4b13c163fe74f62a1207220"
+
+[update]
+[update.modrinth]
+mod-id = "VS1a14jA"
+version = "KCk6T4Zn"

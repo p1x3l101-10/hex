@@ -1,0 +1,13 @@
+name = "AE2 Things: backported"
+filename = "AE2Things-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8aa03f923d8a3a10e3e76ed94bd93234dc5d362c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6286963
+project-id = 1171490

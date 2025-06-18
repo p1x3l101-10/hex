@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "252",
+    "324"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "2": {
+      "item": "minecraft:soul_sand"
+    },
+    "3": {
+      "item": "minecraft:compass"
+    },
+    "4": {
+      "item": "minecraft:clock"
+    },
+    "5": {
+      "item": "minecraft:warped_nylium"
+    }
+  },
+  "result": {
+    "id": "minecraft:nether_star",
+    "count": 1
+  }
+}

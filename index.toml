@@ -721,6 +721,10 @@ file = "config/zenith/zenith.cfg"
 hash = "560c95738d982ea346f9568349cfe177428d692c697758f387ce250f1f50dc71"
 
 [[files]]
+file = "kubejs/data/modpack_tweaks/recipe/broken_loot/nether_star.json"
+hash = "91664c7b8124702d82fb55b0fa61ccdbcb5a5bc5a56bf9d0ce1013b8f9e81cef"
+
+[[files]]
 file = "kubejs/server_scripts/hungry-sun_s-effects.js"
 hash = "58673b137e5e03a7d2486be618eae50b9c6d2efc6a9d8f780eed0b58f4cd4719"
 

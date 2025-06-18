@@ -1,0 +1,13 @@
+name = "Simple Uncrafting Table"
+filename = "UncraftingTable-fabric-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d0f1a75r/versions/LYRPe9S3/UncraftingTable-fabric-1.5.2.jar"
+hash-format = "sha512"
+hash = "b6a0ba4c9f441742c84b698d421d1c3cc256cc3e2f0151d8538fad69017c74d93fbd5c7b184995a09710c24cf5a27f9bd6786756de978cec7731ed8478b23e17"
+
+[update]
+[update.modrinth]
+mod-id = "d0f1a75r"
+version = "LYRPe9S3"

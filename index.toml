@@ -1640,6 +1640,11 @@ hash = "a2af9ceb1e87ec08d1df20883536e167dbe9e6aba7efd9210363a39d3b7e1e45"
 metafile = true
 
 [[files]]
+file = "mods/simple-uncrafting-table.pw.toml"
+hash = "5896530c60f1f8c4ff3f1240f98a84f69b23849f73ea665feadcc0d17d958156"
+metafile = true
+
+[[files]]
 file = "mods/skills.pw.toml"
 hash = "c2c134b29214504acce76cc5dcf1c929dcbbd243374ebbef4146f7bb4f2c0b8e"
 metafile = true

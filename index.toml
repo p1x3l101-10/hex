@@ -1165,6 +1165,11 @@ hash = "ec94d9d2e209b8f19eab587ce504108784c80c42a97fcb90734bfd5afbbb89da"
 metafile = true
 
 [[files]]
+file = "mods/ghast-tweaks.pw.toml"
+hash = "287faf1d7e37b56c1f60dc3e36525a81c8b9648acfcbbba69cf9ad8f47c0d44e"
+metafile = true
+
+[[files]]
 file = "mods/glowing-eyes.pw.toml"
 hash = "1667db8e082e61c6362971bc5f244b93b4048dc5524a673c775135b37e954597"
 metafile = true

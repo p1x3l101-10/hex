@@ -1,0 +1,13 @@
+name = "Ghast Tweaks"
+filename = "ghast-tweaks-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oiDX8yZN/versions/WicZfy8R/ghast-tweaks-1.jar"
+hash-format = "sha512"
+hash = "e8414650cc7890e6355ee6d0068b516c6f79c90a83a893869390447614bbd84914dc7f2080d34e348d973343026ce92faac88f31b1e832506b784db88a0acff2"
+
+[update]
+[update.modrinth]
+mod-id = "oiDX8yZN"
+version = "WicZfy8R"
